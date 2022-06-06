@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Я\\source\\repos\\RGR_VLADA_1_1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Я\\source\\repos\\RGR_num1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Я\\source\\repos\\RGR_VLADA_1_1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Я\\source\\repos\\RGR_num1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Я\\source\\repos\\RGR_VLADA_1_1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Я\\source\\repos\\RGR_num1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Я\\source\\repos\\RGR_VLADA_1_1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\Я\\source\\repos\\RGR_num1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Я\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Я\\source\\repos\\RGR_VLADA_1_1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Я\\source\\repos\\RGR_num1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Я\\AppData\\Roaming\\NuGet\\NuGet.Config",
