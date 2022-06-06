@@ -1,0 +1,14 @@
+C:\Users\Я\source\repos\RGR_VLADA_1_1\RGR_VLADA_1_1\bin\Debug\netcoreapp3.1\RGR_VLADA_1_1.exe
+C:\Users\Я\source\repos\RGR_VLADA_1_1\RGR_VLADA_1_1\bin\Debug\netcoreapp3.1\RGR_VLADA_1_1.deps.json
+C:\Users\Я\source\repos\RGR_VLADA_1_1\RGR_VLADA_1_1\bin\Debug\netcoreapp3.1\RGR_VLADA_1_1.runtimeconfig.json
+C:\Users\Я\source\repos\RGR_VLADA_1_1\RGR_VLADA_1_1\bin\Debug\netcoreapp3.1\RGR_VLADA_1_1.runtimeconfig.dev.json
+C:\Users\Я\source\repos\RGR_VLADA_1_1\RGR_VLADA_1_1\bin\Debug\netcoreapp3.1\RGR_VLADA_1_1.dll
+C:\Users\Я\source\repos\RGR_VLADA_1_1\RGR_VLADA_1_1\bin\Debug\netcoreapp3.1\RGR_VLADA_1_1.pdb
+C:\Users\Я\source\repos\RGR_VLADA_1_1\RGR_VLADA_1_1\obj\Debug\netcoreapp3.1\RGR_VLADA_1_1.csproj.AssemblyReference.cache
+C:\Users\Я\source\repos\RGR_VLADA_1_1\RGR_VLADA_1_1\obj\Debug\netcoreapp3.1\RGR_VLADA_1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\source\repos\RGR_VLADA_1_1\RGR_VLADA_1_1\obj\Debug\netcoreapp3.1\RGR_VLADA_1_1.AssemblyInfoInputs.cache
+C:\Users\Я\source\repos\RGR_VLADA_1_1\RGR_VLADA_1_1\obj\Debug\netcoreapp3.1\RGR_VLADA_1_1.AssemblyInfo.cs
+C:\Users\Я\source\repos\RGR_VLADA_1_1\RGR_VLADA_1_1\obj\Debug\netcoreapp3.1\RGR_VLADA_1_1.csproj.CoreCompileInputs.cache
+C:\Users\Я\source\repos\RGR_VLADA_1_1\RGR_VLADA_1_1\obj\Debug\netcoreapp3.1\RGR_VLADA_1_1.dll
+C:\Users\Я\source\repos\RGR_VLADA_1_1\RGR_VLADA_1_1\obj\Debug\netcoreapp3.1\RGR_VLADA_1_1.pdb
+C:\Users\Я\source\repos\RGR_VLADA_1_1\RGR_VLADA_1_1\obj\Debug\netcoreapp3.1\RGR_VLADA_1_1.genruntimeconfig.cache
